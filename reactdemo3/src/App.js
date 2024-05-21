@@ -25,11 +25,11 @@ function App() {
   });
 
   console.log(item);
-  setItem({
-    name: "b",
-    price: "2000",
-    amount: "20"
-  });
+  // setItem({
+  //   name: "b",
+  //   price: "2000",
+  //   amount: "20"
+  // });
   console.log(item);
 
 
